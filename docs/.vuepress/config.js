@@ -2,8 +2,8 @@
 
 module.exports = {
 
-    title: '个人主页',
-    description: '姜帅杰的博客',
+    title: '小说书源解析接口',
+    description: '小说书源解析接口',
     head: [
         ['link', { rel: 'icon', href: '/img/logo.ico' }],
         ['link', { rel: 'manifest', href: '/manifest.json' }],
